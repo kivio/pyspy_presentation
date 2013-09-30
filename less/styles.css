@@ -1,0 +1,9 @@
+.border-debug {
+  border: 1px solid #f00;
+}
+#start {
+  background: url('../img/background.jpg') no-repeat;
+  background-size: cover;
+  width: 1024px;
+  height: 780px;
+}
